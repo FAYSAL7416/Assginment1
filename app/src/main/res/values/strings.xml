@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RegistrationAndLogin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="CricketerName">Bangladesh</string>
+
+    <string-array name="CricketerName">
+        <item>Mehedi Hasan </item>
+        <item>Masharafi Mortaza </item>
+        <item>Sakib Al Hasan </item>
+        <item>Tamin Iqbal </item>
+        <item>Mustafiz Rahamna</item>
+        <item> Mahamudullha </item>
+        <item>Rubel Hossain </item>
+        <item>Saifuddin  </item>
+        <item> Musfiqur Rahim</item>
+
+
+    </string-array>
+
+
+    <string-array name="CricketerDetails">
+        <item>All Rounder </item>
+        <item>Captin </item>
+        <item>Captin T_20 </item>
+        <item>BatsMan</item>
+        <item> BatsMan </item>
+        <item>AllRounder</item>
+        <item> Bollwer </item>
+        <item>Bollwer </item>
+        <item>Bollwer </item>
+        <item>AllRounder </item>
+        <item>Bollwer </item>
+        <item>Bollwer </item>
+
+
+    </string-array>
+
+</resources>
